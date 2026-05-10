@@ -60,8 +60,7 @@ hyakuren-challenge-0.1.0-win-x64.exe
 
 改善のため、利用後アンケートへの回答をお願いします。
 
-> TODO: Googleフォーム作成後にURLを差し替え  
-> https://forms.gle/XXXXXXXXXXXX
+> https://forms.gle/cCDZgAfLM275sVkMA
 
 ## 更新履歴
 
