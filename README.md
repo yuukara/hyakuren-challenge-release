@@ -60,7 +60,11 @@ hyakuren-challenge-0.1.0-win-x64.exe
 
 改善のため、利用後アンケートへの回答をお願いします。
 
-> https://forms.gle/cCDZgAfLM275sVkMA
+[アンケートに回答する](https://forms.gle/cCDZgAfLM275sVkMA)
+
+スマートフォンから回答する場合は、以下のQRコードを読み取ってください。
+
+![アンケートQRコード](QR/qrcode-google-form.png)
 
 ## 更新履歴
 
