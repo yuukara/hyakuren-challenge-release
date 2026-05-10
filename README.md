@@ -8,13 +8,12 @@ Java Gold学習をサポートするWindows向け学習アプリです。
 
 最新版はGitHub Releasesからダウンロードできます。
 
-> TODO: Release公開後にURLを差し替え  
-> https://github.com/YOUR_NAME/YOUR_RELEASE_REPOSITORY/releases
+> https://github.com/yuukara/hyakuren-challenge-release/releases
 
 ダウンロードするファイル:
 
 ```text
-百錬剛チャレンジ-0.1.0-win-x64.exe
+hyakuren-challenge-0.1.0-win-x64.exe
 ```
 
 ## 対応環境
