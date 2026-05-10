@@ -64,7 +64,7 @@ hyakuren-challenge-0.1.0-win-x64.exe
 
 スマートフォンから回答する場合は、以下のQRコードを読み取ってください。
 
-![アンケートQRコード](QR/qrcode-google-form.png)
+![アンケートQRコード](QR/qrcode_docs.google.com.png)
 
 ## 更新履歴
 
